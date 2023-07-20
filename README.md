@@ -9,4 +9,4 @@ https://mohammed-tayseer.github.io/RIMAL-VILLAS-FOR-RENT/index.html
 https://mohammed-tayseer.github.io/RIMAL-VILLAS-FOR-RENT/orderSummary.html
 
 # note
-"All rights reserved for Azai Company in Gaza 2023 ©"
+"All rights reserved for Azai Company in Gaza © 2023"
